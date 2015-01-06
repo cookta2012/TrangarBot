@@ -1,0 +1,22 @@
+{
+	"name": "TrangarBot",
+	"version": "0.3",
+	"description": "An IRC bot",
+	"author": "Victor Koenders <victor.koenders@gmail.com>",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorKoenders/TrangarBot"
+	},
+	"bugs": {
+		"url": "https://github.com/VictorKoenders/TrangarBot/issues"
+	},
+	"keywords": [
+		"IRC",
+		"NodeJS",
+		"Bot"
+	],
+	"dependencies": {
+		"tedious": "*"
+	}
+}
